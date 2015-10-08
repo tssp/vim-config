@@ -33,3 +33,9 @@ set incsearch
 
 " When scrolling, keep the cursor 8 lines from the top
 set scrolloff=8
+
+" Highlight current line
+set cursorline
+
+" Increase command history buffer
+set history=50
