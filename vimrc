@@ -14,7 +14,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'bling/vim-airline'
-
+Plugin 'airblade/vim-gitgutter'
 
 " required
 call vundle#end()            
