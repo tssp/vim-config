@@ -21,6 +21,8 @@ call vundle#end()
 filetype plugin indent on 
 
 
+execute pathogen#infect()
+
 
 
 " Set up colors
