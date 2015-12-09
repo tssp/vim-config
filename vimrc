@@ -15,6 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'bling/vim-airline'
 Plugin 'airblade/vim-gitgutter'
+Plugin 'derekwyatt/vim-scala'
 
 " required
 call vundle#end()            
