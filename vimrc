@@ -24,7 +24,8 @@ filetype plugin indent on
 
 execute pathogen#infect()
 
-
+" Make % match keyworks
+runtime macros/matchit.vim
 
 " Set up colors
 colorscheme xoria256
