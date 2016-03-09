@@ -19,3 +19,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar
+[submodule "/Users/tspeier/.vim/bundle/auto-pairs"]
+	path = /Users/tspeier/.vim/bundle/auto-pairs
+	url = git://github.com/jiangmiao/auto-pairs.git
